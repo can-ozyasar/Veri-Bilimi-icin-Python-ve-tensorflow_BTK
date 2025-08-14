@@ -1,0 +1,5 @@
+veriyi öğrenm ve test verisi olarak ayıracağız  ve tahminleri doğrulama yapacaği .
+
+doğrulama sürecinde maliyet fonsksiyonunu düşürmeye çalışırız 
+gradient descent ile maliyet fonksiyonunda eğimlerden yola çıkarak min değeri bulabilriz 
+RMSPrp ve Adam  optimizasyon seçenekleri mevcut 
