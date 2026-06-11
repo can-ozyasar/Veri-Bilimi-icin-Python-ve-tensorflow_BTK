@@ -2,11 +2,23 @@
 
 BTK eğitimindeki Python, NumPy, Pandas ve TensorFlow pratiklerini içeren notebook arşivi.
 
-## Öne Çıkanlar
+## Bu Repo Ne İçin Var?
+BTK veri bilimi eğitimindeki Python, NumPy, Pandas ve TensorFlow konularını düzenli şekilde arşivlemek için oluşturuldu.
+
+Bu README'nin amacı; repoya ilk kez gelen birinin projenin neden açıldığını, içinde ne bulunduğunu ve nereden başlaması gerektiğini hızlıca anlamasını sağlamaktır.
+
+## İçerik ve Kapsam
+Bu repoda öne çıkan içerikler şunlardır:
 - NumPy ve Pandas temel çalışmaları
 - TensorFlow/veri bilimi eğitim notları
 - Konu bazlı klasörlenmiş notebook yapısı
-- Kullanılan ana teknolojiler: Jupyter Notebook
+- Jupyter Notebook dosyalarıyla adım adım deney/analiz akışı
+
+## Kimler İçin Faydalı?
+Aynı konuları çalışan öğrenciler, ders notlarını tekrar etmek isteyenler ve örnek proje yapısı arayanlar için faydalıdır.
+
+## Kullanılan Teknolojiler
+- Jupyter Notebook
 
 ## Çalıştırma
 ```bash
